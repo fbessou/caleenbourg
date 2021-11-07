@@ -30,7 +30,8 @@ def phon_to_text(dictionnary_inv, phon, text=""):
         pass  # print(text)
 
 
-def main(text):
+def main():
+    text = sys.argv[1].lower()
     with (Path(__file__).parent / "data" / "dict.tsv").open() as f:
         dictionnary = dict()
         dictionnary_inv = defaultdict(list)
@@ -45,4 +46,4 @@ def main(text):
 
 
 if __name__ == "__main__":
-    main(sys.argv[1].lower())
+    main()
