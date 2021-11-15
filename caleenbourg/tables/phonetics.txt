@@ -1,0 +1,37 @@
+'1': V -un-tel, br-un-
+'2': V -heu-reux, d-eu-x
+'5': V -in-terdit, br-in-
+'8': V -hu-it, p-u-it
+'9': V -oeu-f
+'@': V -an-cre, palpit-ant-
+'E': V -ê-tre, pal-ais-
+'O': V -ho-mme
+'a': V -a-rbre
+'e': V -é-tanche, mang-er-
+'i': V -i-mage, l-i-re
+'o': V -o-tarie
+'u': V -ou-ragan
+'w': V -w-apiti, v-o-ile
+'y': V -u-rbain, voit-u-re
+'§': V -on-duler, t-on-dre
+'°': V d-e-ssous
+'G': C ri-ng-, scanni-ng-
+'N': C -gn-ol, si-gn-ifier
+'R': C -r-iche
+'S': C -ch-anter
+'Z': C -j-uin
+'b': C -b-anane
+'d': C -d-essous
+'f': C -f-ondre
+'g': C -g-rand
+'j': V -i-odée, ta-ille-
+'k': C -c-ancre
+'l': C -l-ire
+'m': C -m-ontre
+'n': C -n-uit
+'p': C -p-omme
+'s': C -s-uite
+'t': C -t-ondre
+'v': C -v-alider
+'x': C -j-uan (spanish)
+'z': C -z-oo
